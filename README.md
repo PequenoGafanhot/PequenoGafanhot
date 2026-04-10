@@ -2,7 +2,7 @@
 
 **`Desenvolvedor/Programador front-end`**
 
-Me chamo Cayo Vinnicius, sou desenvolvedor e programador faço HTML e CSS e também faço JacaScript, tenho alguns projetos bem legais do meu curso de html e css =, mas futuramente pretendo fazer alguns projetos pessoais
+Me chamo Cayo Vinnicius, sou desenvolvedor e programador faço HTML e CSS e também faço JacaScript, tenho alguns projetos bem legais do meu curso de html e css , mas futuramente pretendo fazer alguns projetos pessoais
 
 ##
   🤖 Linguagens:

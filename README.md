@@ -6,15 +6,14 @@ Me chamo Cayo Vinnicius, sou desenvolvedor e programador faço HTML e CSS e tamb
 
 ##
   🤖 Linguagens:
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23333333.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%23333333.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23333333.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 ##
 
   📬 Contate-me:
-  
-   <a href="https://discord.gg/ahNyJD6n" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:almeidafeitosa112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidafeitosa112@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ahNyJD6n)

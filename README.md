@@ -23,9 +23,9 @@ Me chamo Cayo Vinnicius, sou desenvolvedor e programador faço HTML e CSS e tamb
 
   📚 Cursos
   
-  **`Aqui você pode acessar meus curso mais organizados`**
+  **`Aqui você pode acessar meus cursos e projetos mais organizados`**
   
 | Lista | Descrição |
 | :--- | :--- |
-| [📂 Cursos](https://github.com/stars/PequenoGafanhot/lists/cursos) | Repositórios de estudos e certificados |
+| [📂 Cursos](https://github.com/stars/PequenoGafanhot/lists/cursos) | Repositórios de cursos |
 | [🚀 Projetos](https://github.com/stars/PequenoGafanhot/lists/projetos-dos-cursos) | Projetos práticos dos cursos |

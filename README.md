@@ -4,6 +4,8 @@
 
 Me chamo Cayo Vinnicius, sou desenvolvedor e programador faço HTML e CSS e também faço JacaScript, tenho alguns projetos bem legais do meu curso de html e css , mas futuramente pretendo fazer alguns projetos pessoais
 
+ ![Snake animation](https://github.com/vicnuel/vicnuel/blob/output/github-contribution-grid-snake-dark.svg)
+
 ##
   🤖 Linguagens:
   

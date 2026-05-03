@@ -13,8 +13,10 @@ Me chamo Cayo Vinnicius, sou desenvolvedor e programador faço HTML e CSS e tamb
 ![CSS3](https://img.shields.io/badge/css3-%23333333.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23333333.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-[![PequenoGafanhot GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PequenoGafanhot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PequenoGafanhot/github-readme-stats#gh-dark-mode-only)
-[![Pequeno GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PequenoGafanhot&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/PequenoGafanhot/github-readme-stats#gh-light-mode-only)
+##
+ 📚Aprendendo:
+ 
+![Java](https://img.shields.io/badge/java-%23333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ##
 

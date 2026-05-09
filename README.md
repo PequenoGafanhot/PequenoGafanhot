@@ -16,7 +16,7 @@ Me chamo Cayo Vinnicius, sou desenvolvedor e programador faço HTML e CSS e tamb
 ##
  📚Aprendendo:
  
-![Java](https://img.shields.io/badge/java-%23333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23333333.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23333333.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23333333.svg?style=for-the-badge&logo=github&logoColor=white)
 

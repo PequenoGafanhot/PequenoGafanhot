@@ -1,27 +1,20 @@
 ## 👨🏽‍💻Cayo Vinnicius
 
-**`Desenvolvedor/Programador front-end`**
+**`Programador back-end`**
 
-Me chamo Cayo Vinnicius, sou desenvolvedor e programador faço HTML e CSS e também faço JacaScript, tenho alguns projetos bem legais do meu curso de html e css , mas futuramente pretendo fazer alguns projetos pessoais
+Olá me chamo Cayo Vinnicius, sou programador back-end, atualmente usando java, tenho alguns projetos bem legais dos meus cursos e tambem tenho repositórios dos meus curso para vocês da uma olhada depois
 
  ![Snake animation](https://github.com/vicnuel/vicnuel/blob/output/github-contribution-grid-snake-dark.svg)
 
 ##
   🤖 Linguagens:
   
-  ![HTML5](https://img.shields.io/badge/html5-%23333333.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23333333.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23333333.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23333333.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ##
- 📚Aprendendo:
- 
-![C#](https://img.shields.io/badge/c%23-%23333333.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23333333.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23333333.svg?style=for-the-badge&logo=github&logoColor=white)
-
-##
-
   📬 Contate-me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidafeitosa112@gmail.com)

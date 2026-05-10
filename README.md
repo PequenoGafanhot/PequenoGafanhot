@@ -24,5 +24,4 @@ Olá me chamo Cayo Vinnicius, sou programador back-end, atualmente usando java, 
 
 | Seção | Link para Repositórios |
 | :--- | :--- |
-| 📚 **Cursos** | [![Cursos](https://img.shields.io/badge/ACESSAR-REPOSITÓRIOS-lightgrey?style=for-the-badge&logo=gitbook&logoColor=black)](https://github.com/stars/PequenoGafanhot/lists/cursos) |
 | 🚀 **Projetos** | [![Projetos](https://img.shields.io/badge/VER-PROJETOS-lightgrey?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/stars/PequenoGafanhot/lists/projetos-dos-cursos) |

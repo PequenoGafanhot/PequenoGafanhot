@@ -2,7 +2,7 @@
 
 **`Programador back-end`**
 
-Olá me chamo Cayo Vinnicius, sou programador back-end, atualmente usando java, tenho alguns projetos bem legais dos meus cursos e tambem tenho repositórios dos meus curso para vocês da uma olhada depois
+Olá me chamo Cayo Vinnicius, sou programador back-end, atualmente usando java, tenho alguns projetos bem legais dos meus cursos para vocês da uma olhada depois
 
  ![Snake animation](https://github.com/vicnuel/vicnuel/blob/output/github-contribution-grid-snake-dark.svg)
 

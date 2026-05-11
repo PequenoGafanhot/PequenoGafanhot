@@ -15,12 +15,6 @@ Olá me chamo Cayo Vinnicius, sou programador back-end, atualmente usando java, 
 ![C#](https://img.shields.io/badge/c%23-%23333333.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ##
-  📬 Contate-me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidafeitosa112@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ahNyJD6n)
-
-##
 
 | Seção | Link para Repositórios |
 | :--- | :--- |

@@ -12,7 +12,7 @@ Olá me chamo Cayo Vinnicius, sou programador back-end, atualmente usando java, 
 ![HTML5](https://img.shields.io/badge/html5-%23333333.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23333333.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23333333.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23333333.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23333333.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ##
   📬 Contate-me:
